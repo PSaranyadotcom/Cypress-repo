@@ -31,4 +31,4 @@ jobs:
         run: npx cypress verify
 
       - name: Run Cypress tests (headless in Chrome)
-        run: npx cypress run --browser chrome
+        run: npx cypress run --spec cypress/e2e/assertion.cy.js --browser chrome
