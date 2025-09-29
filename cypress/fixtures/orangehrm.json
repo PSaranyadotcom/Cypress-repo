@@ -1,0 +1,17 @@
+[
+{
+    "name":"Admin",
+    "password":"admin123",
+    "text":"Dashboard"
+},
+{
+    "name":"XYZ",
+    "password":"admin123",
+    "text":"Invalid credentials"
+},
+{
+    "name":"Admin",
+    "password":"57567",
+    "text":"Invalid credentials"
+}
+]
